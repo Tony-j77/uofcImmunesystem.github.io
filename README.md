@@ -5,7 +5,7 @@ Hello!
 This site is best when viewed in Google Chrome on a PC or Laptop and definitely not a mobile phone. 
 
 The site is hosted in Github Pages so feel free to go here: https://uofcimmunesystem.github.io/
-The pitch is located here: https://youtu.be/MNIj9nJ3Xiw
+The pitch is located here: https://youtu.be/MNIj9nJ3Xiw and the backup pitch is here: https://drive.google.com/file/d/1_3MINXzsWCF1n9XGrss0yrO2wjTFlyBU/view
 
 We, of course, condemn travelling during COVID but this is website is meant for when restrictions are lifted and people are able to travel again even with COVID still around.
 This is why we made this site. We want people to make informed decisions on travel, locally and internationally, by supplying them with covid and vaccination data as well as destinations
