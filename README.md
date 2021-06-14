@@ -14,6 +14,7 @@ AHS website. The international COVID data is updated through the CDC.
 Features:
   - Local business search bar
   - Activities filter 
+  - Custom made maps (side view available)
   - Local Activities (easy to add and delete for easy moderation)
     - Mask requirement
     - Vaccine requirement
