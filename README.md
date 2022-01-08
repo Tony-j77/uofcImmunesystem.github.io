@@ -1,4 +1,4 @@
-# Safe Journey
+## Safe Journey
 # Calgary Mayor's Council 2021 Hackthon 2nd Place Price
 
 
