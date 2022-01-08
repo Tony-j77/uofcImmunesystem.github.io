@@ -1,5 +1,6 @@
-## Safe Journey
-# Calgary Mayor's Council 2021 Hackthon 2nd Place Price
+# Safe Journey
+## Calgary Mayor's Council 2021 Hackthon 2nd Place Price
+### Team members: Tony Jiang, Jayden Luc & Brian Su
 
 
 
